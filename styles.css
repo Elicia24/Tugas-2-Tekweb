@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1ec9d;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ddc121;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: #ddc121;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+section {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+section h2 {
+    color: black;
+    margin-bottom: 10px;
+}
+
+section p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #ddc121;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.divImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#ancient-history-of-greece {
+    color: black;
+    font-style: italic;
+}
+
+#greek-mythology {
+    color:black;
+    font-style: italic;
+}
+
+#greek-influence-in-the-modern-world {
+    color: black;
+    font-style: italic;
+}
+
+#city-in-greece {
+    color: black;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 30px auto;
+}
+th, td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #f0c331;
+}
