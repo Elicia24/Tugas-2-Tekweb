@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Project-Akhir/static/css/main.35620f6a.css",
+    "main.js": "/Project-Akhir/static/js/main.f136965d.js",
+    "static/media/moon.jpeg": "/Project-Akhir/static/media/moon.cd088d5e48a512b58e82.jpeg",
+    "static/media/bintang.jpeg": "/Project-Akhir/static/media/bintang.88d7e7bd89ddcbd94ca1.jpeg",
+    "static/media/matahari.jpg": "/Project-Akhir/static/media/matahari.deddf720b7617ec4f9b5.jpg",
+    "static/media/bumi.jpeg": "/Project-Akhir/static/media/bumi.b1adbec8b200ab722d28.jpeg",
+    "static/media/yunani.png": "/Project-Akhir/static/media/yunani.667e596d3fb24321fe40.png",
+    "index.html": "/Project-Akhir/index.html",
+    "main.35620f6a.css.map": "/Project-Akhir/static/css/main.35620f6a.css.map",
+    "main.f136965d.js.map": "/Project-Akhir/static/js/main.f136965d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35620f6a.css",
+    "static/js/main.f136965d.js"
+  ]
+}
